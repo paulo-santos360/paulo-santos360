@@ -1,7 +1,7 @@
 ### Hi Olá seja Bem Vindo, me chamo Paulo 👋
 
 - 🔭 Sou Estudante de Desenvolvimento, Apaixonado por Tecnologia
-- 🌱 Atualmente faço Cuso Técnico no Senac e Cursos da Udemy
+- 🌱 Atualmente faço Curso Técnico no Senac e Cursos da Udemy
 - 👯 Estou em Busca da minha Vaga de Dev Junior
 
 
