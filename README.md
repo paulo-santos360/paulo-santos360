@@ -1,8 +1,10 @@
 ### Hi Olá seja Bem Vindo, me chamo Paulo 👋
 
-- 🔭 Sou Estudante de Desenvolvimento, Apaixonado por Tecnologia
-- 🌱 Atualmente faço Curso Técnico no Senac e Cursos da Udemy
-- 👯 Estou em Busca da minha Vaga de Dev Junior
+-  Desenvolvedor Front-End
+
+-  Com Experincia no Front-End e aplicaçoes responsivas nas sequintes Tecnologias
+-  HTML5, CSS3, JAVASCRIPT, REACTJS, BOOTSTRAP E GIT
+-  Estou em Busca da minha Vaga de Dev Junior
 
 
 <div style="display: inline_block">
