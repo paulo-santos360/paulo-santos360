@@ -4,7 +4,7 @@
 
 -  Com Experincia no Front-End e aplicações responsivas nas seguintes Tecnologias da Informação
 -  HTML5, CSS3, JAVASCRIPT, REACTJS, BOOTSTRAP, GIT e GITHUB
--  Estou em Busca da minha Vaga de Dev Junior
+-  Estou em Busca da minha primeira Vaga de Dev Junior
 
 
 <div style="display: inline_block">
