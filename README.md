@@ -2,7 +2,7 @@
 
 -  Desenvolvedor Front-End
 
--  Com Experincia no Front-End e aplicaçoes responsivas nas sequintes Tecnologias
+-  Com Experincia no Front-End e aplicações responsivas nas seguintes Tecnologias da Informação
 -  HTML5, CSS3, JAVASCRIPT, REACTJS, BOOTSTRAP E GIT
 -  Estou em Busca da minha Vaga de Dev Junior
 
