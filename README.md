@@ -3,7 +3,7 @@
 -  Desenvolvedor Front-End
 
 -  Com Experincia no Front-End e aplicações responsivas nas seguintes Tecnologias da Informação
--  HTML5, CSS3, JAVASCRIPT, REACTJS, BOOTSTRAP E GIT
+-  HTML5, CSS3, JAVASCRIPT, REACTJS, BOOTSTRAP, WORDPRESS, GIT e GITHUB
 -  Estou em Busca da minha Vaga de Dev Junior
 
 
