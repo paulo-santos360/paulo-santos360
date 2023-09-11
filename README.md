@@ -13,7 +13,7 @@ Minhas habilidades incluem:
 
 Estou atualmente em busca da minha primeira oportunidade como Desenvolvedor Júnior. Estou comprometido em aprender, crescer e contribuir para projetos incríveis. Vamos construir algo juntos!
 
-Fique à vontade para explorar meus projetos e entre em contato se você quiser colaborar ou se tiver alguma pergunta. Vamos criar coisas incríveis juntos!
+Fique à vontade para explorar meus projetos e entre em contato se você quiser colaborar ou se tiver alguma pergunta. Vamos criar coisas incríveis juntos!!
 
 <div style="display: inline_block">
   <a href="https://github.com/paulo-santos360">
