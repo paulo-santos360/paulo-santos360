@@ -14,7 +14,6 @@ Minhas habilidades incluem:
 Estou atualmente em busca da minha primeira oportunidade como Desenvolvedor Júnior. Estou comprometido em aprender, crescer e contribuir para projetos incríveis. Vamos construir algo juntos!
 
 Fique à vontade para explorar meus projetos e entre em contato se você quiser colaborar ou se tiver alguma pergunta. Vamos criar coisas incríveis juntos!
-Espero que isso ajude a criar uma boa primeira impressão no seu perfil do GitHub. Boa sorte na busca por sua primeira vaga de Desenvolvedor Júnior!
 
 <div style="display: inline_block">
   <a href="https://github.com/paulo-santos360">
