@@ -17,7 +17,7 @@ Fique à vontade para explorar meus projetos e entre em contato se você quiser 
 
 <div style="display: inline_block">
   <a href="https://github.com/paulo-santos360">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=paulo-santos360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-santos360&layout-compact&langs_count-16&theme-dracula"/>
+  <img height="30em" src="https://github-readme-stats.vercel.app/api?username=paulo-santos360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-santos360&layout-compact&langs_count-16&theme-dracula"/>
 </div>
   
   </div>
